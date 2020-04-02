@@ -30,6 +30,7 @@ int main()
     int auxiliarInt;
     int i;
 
+
     // Solicito el primer número el cual por ser el primero sera tanto el
     // maximo como el minimo y el primer numero a ser acumulado
     printf("Ingrese un numero: ");
